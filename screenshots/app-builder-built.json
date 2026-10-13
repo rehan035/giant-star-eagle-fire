@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Salu Gujjar — Rabri, kheer & falooda, Sialkot",
+      "hasCanvas": false,
+      "bodyTextLen": 3464,
+      "bodyTextHash": "461e0562db1253030330bdbb1ed7f933ade172c83fe43c30e808c31260050008",
+      "bodyTextPrefix": "Salu Gujjar SIALKOT Menu The gali Visit Order 0 TRUNK BAZAAR · D",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Salu Gujjar — Rabri, kheer & falooda, Sialkot",
+      "hasCanvas": false,
+      "bodyTextLen": 3464,
+      "bodyTextHash": "7c2fd10c2ab732cd0d69a5d21ce8895e62281dbcb67cdeb2c711498bdd23a52e",
+      "bodyTextPrefix": "Salu Gujjar SIALKOT Order 0 Menu The gali Visit TRUNK BAZAAR · D",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

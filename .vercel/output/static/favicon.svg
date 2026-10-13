@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Salu Gujjar">
+  <rect width="32" height="32" rx="8" fill="#8C2433"/>
+  <path d="M6.5 13.2h19c-.7 6.6-4.5 10.6-9.5 10.6s-8.8-4-9.5-10.6z" fill="#B8863B"/>
+  <ellipse cx="16" cy="13.1" rx="8.4" ry="2.5" fill="#F4EADC"/>
+  <ellipse cx="16" cy="12.2" rx="9.2" ry="2.7" fill="none" stroke="#F4EADC" stroke-width="1.5"/>
+  <ellipse cx="13.2" cy="12.4" rx="2.1" ry="0.7" fill="#B8863B" opacity="0.55"/>
+</svg>

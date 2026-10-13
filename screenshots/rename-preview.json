@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Salu Gujjar Sweet — Rabri, kheer & falooda, Sialkot",
+      "hasCanvas": false,
+      "bodyTextLen": 3476,
+      "bodyTextHash": "b57816ca61ae78b9d3bec28faeb3e9929b9542c142fb4ef7bdd828ecd6db1ccf",
+      "bodyTextPrefix": "Salu Gujjar Sweet SIALKOT Menu The gali Visit Order 0 TRUNK BAZA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rename-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Salu Gujjar Sweet — Rabri, kheer & falooda, Sialkot",
+      "hasCanvas": false,
+      "bodyTextLen": 3476,
+      "bodyTextHash": "3517cd261042e346e83efa71697d3e63725dd88064270c71e983b1baf73d7366",
+      "bodyTextPrefix": "Salu Gujjar Sweet SIALKOT Order 0 Menu The gali Visit TRUNK BAZA",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/rename-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/rename-preview.json"
+}
